@@ -129,6 +129,7 @@ class _YemekSayfasiState extends State<YemekSayfasi> {
               color: Colors.black,
             ),
           ),
+          Text('yeni bir text widget eklendi'),
         ],
       ),
     );
